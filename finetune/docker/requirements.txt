@@ -1,0 +1,7 @@
+numpy
+--extra-index-url https://download.pytorch.org/whl/cu118 torch
+accelerate==0.22.0
+transformers==4.26
+diffusers==0.25.0
+xformers
+conda-pack==0.7.1
